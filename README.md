@@ -1,19 +1,31 @@
 
 ![YoeCode](https://github.com/user-attachments/assets/2e6504a6-b106-4415-89b3-28406164af87)
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwNjh3aTVjM2wzd2ZvZWRqdnZqaDVjemZlZTJjOHM1aDk5bTk3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2N3FrcnMyY2xtdzZmaXFteHB5aDRrMGRhdGk3czAyanlhMHF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="150"/>
-<!--
-**YoeCode/YoeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi ⚡
+
+👨🏽‍💻 Soy Desarrollador Web, principalmente desarollo con el stack tecnologico MEAN, con un año de experiencia con Angular (Redux, TypeScript, Sass, Tailwind CSS) en sus últimas versiones. Mas a mas tambien tengo conocmimientos de React y React Native. Las buenas prácticas y el código limpio son parte de mi ADN como desarrollador.
+
+Con respecto al Back End, he desarrollado en NodeJS con Express. MongoDB en cuanto a Bases de Datos.
+
+Soy una persona con un alto nivel de compromiso en alcanzar los objetivos propuestos; me siento muy cómodo trabajando en equipo y teniendo iniciativa. A la par, que estoy al día con las novedades tecnológicas.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy desarrollando una api con Nest
+- 🌱 Actualmente estoy aprendiendo los frameworks backend Nest y Springboot
+- 💬 Preguntame lo que necesites saber sobre mi perfil profesional.
+- 📫 Email de contacto: y.marti@outlook.es
+
+
+  ## ⚙️ Tecnologias
+
+  [![My Skills](https://skillicons.dev/icons?i=javascript,css,html,typescript,bootstrap,tailwind,java,nodejs,express,docker,git,materialui,nestjs&theme=light)](https://skillicons.dev)
+
+## BBDD
+   [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
+
+  ## ⚙️ Herramientas
+
+  [![My Tools](https://skillicons.dev/icons?i=bitbucket,figma,github,gitlab,gmail&theme=light)](https://skillicons.dev)
+  
+
