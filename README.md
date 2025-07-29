@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![YoeCode](https://github.com/user-attachments/assets/2e6504a6-b106-4415-89b3-28406164af87)
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwNjh3aTVjM2wzd2ZvZWRqdnZqaDVjemZlZTJjOHM1aDk5bTk3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
 
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2N3FrcnMyY2xtdzZmaXFteHB5aDRrMGRhdGk3czAyanlhMHF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="150"/>
