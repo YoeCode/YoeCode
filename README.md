@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - 📫 Email de contacto: y.marti@outlook.es
 
 
-  ## ⚙️ Tecnologias
+## ⚙️ Tecnologias
 
-  [![My Skills](https://skillicons.dev/icons?i=javascript,css,html,typescript,bootstrap,tailwind,java,nodejs,express,docker,git,materialui,nestjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,typescript,bootstrap,tailwind,java,nodejs,express,docker,git,materialui,nestjs&theme=light)](https://skillicons.dev)
 
-## BBDD
-   [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
+## ⚙️ BBDD
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
-  ## ⚙️ Herramientas
+## ⚙️ Herramientas
 
-  [![My Tools](https://skillicons.dev/icons?i=bitbucket,figma,github,gitlab,gmail&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=bitbucket,figma,github,gitlab,gmail&theme=light)](https://skillicons.dev)
   
 
