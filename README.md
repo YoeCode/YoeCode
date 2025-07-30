@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=angular,javascript,css,sass,html,typescript,redux,bootstrap,tailwind,java,nodejs,express,docker,netlify,git,materialui,nestjs,npm,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,javascript,css,sass,html,typescript,redux,bootstrap,tailwind,java,nodejs,express,docker,netlify,git,materialui,nestjs,npm,react&theme=light&perline=4)](https://skillicons.dev)
 
 ## ⚙️ BBDD
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
