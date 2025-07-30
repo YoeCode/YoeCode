@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ## ⚙️ Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,typescript,bootstrap,tailwind,java,nodejs,express,docker,git,materialui,nestjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,javascript,css,sass,html,typescript,redux,bootstrap,tailwind,java,nodejs,express,docker,netlify,git,materialui,nestjs,npm,react&theme=light)](https://skillicons.dev)
 
 ## ⚙️ BBDD
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
 ## ⚙️ Herramientas
 
-[![My Tools](https://skillicons.dev/icons?i=bitbucket,figma,github,gitlab,gmail&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,bitbucket,figma,github,gitlab,gmail&theme=light)](https://skillicons.dev)
   
 
